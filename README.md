@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-    <img src="E:\ma photo shooting\WhatsApp Image 2024-01-06 at 23.07.24 (1).jpeg"" height="350px">
+    <img src="E:\ma photo shooting\WhatsApp Image 2024-01-06 at 23.07.24 (1).jpeg" height="350px">
 </p>
 
 
