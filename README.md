@@ -42,8 +42,8 @@
 </p>
 
 
-- 🧬 Je travaille actuellement sur les differents techniques pour minimiser la risques de d'intrusion dans mon lab !
-- 📈 J'aime faire des tes d'intrusion pour detecter des failles dans le reseau des organisations.
+- 🧬 Je travaille dans le cadre CIA !
+- 📈 J'aime la fusion de synergie pour l'atteinte de objectifs.
 
 - 🧔🏻 J'adore la réalisation d'un audit de sécurité
 - 🧔🏻 J'ador l'analyse de la structure et de la sécurité d'un réseau
