@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/49638680/E:\ma photo shooting\_DSC4171.jpgf1.jpg" height="350px">
+    <img src="https://user-images.githubusercontent.com/49638680/ma photo shooting\_DSC4171.jpgf1.jpg" height="350px">
 </p>
 
 
