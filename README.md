@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/49638680/ma photo shooting\_DSC4171.jpgf1.jpg" height="350px">
+    <img src="https://user-images.githubusercontent.com/49638680/220298768-ea776c44-44d2-4693-ae46-19b014965c0b.png" height="350px">
 </p>
 
 
