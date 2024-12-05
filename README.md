@@ -3,8 +3,6 @@
  Ce référentiel est destiné à la pratique du flux d'activités de la cybersécurité sur GitHub
 
 
-<a href="https://peter-wanyou.github.io"><img src="https://user-images.githubusercontent.com/49638680/98257151-9f5e5800-1f7f-11eb-9f42-479a4fc6cf24.png" height="125" align="right" /></a>
-
 # Wanyou Zabeyou Peter
 > Informaticien Reseau Telecom et passionné de la cybersecurité.
 
