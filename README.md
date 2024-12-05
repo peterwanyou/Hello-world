@@ -1,4 +1,5 @@
-# Hello-world
+# Hello-world, ça c'est ma rédaction de déclaration professionnelle
+
  Ce référentiel est destiné à la pratique du flux d'activités de la cybersécurité sur GitHub
 
 
@@ -43,21 +44,14 @@
 
 - 🧬 Je travaille actuellement sur les differents techniques pour minimiser la risques de d'intrusion dans mon lab !
 - 📈 J'aime faire des tes d'intrusion pour detecter des failles dans le reseau des organisations.
-- 🧔🏻 J'adore La rédaction d'une déclaration professionnelle
 
-       1-La réalisation d'un audit de sécurité
-
-       2-L'analyse de la structure et de la sécurité d'un réseau
-
-       3-Gestion des autorisations de fichiers à l'aide de commandes Linux
-
-       4-Filtrage des requêtes SQL
-
-       5-Identifier les failles d'une petite entreprise
-
-       6-Documentation des incidents à l'aide d'un journal du gestionnaire des incidents
-
-  7-Importation et analyse d'un fichier texte dans un scénario lié à la sécurité.
+- 🧔🏻 J'adore la réalisation d'un audit de sécurité
+- 🧔🏻 J'ador l'analyse de la structure et de la sécurité d'un réseau
+- 🧔🏻 J'adore la gestion des autorisations de fichiers à l'aide de commandes Linux
+- 🧔🏻 J'adore la filtrage des requêtes SQL
+- 🧔🏻 J'adore la identifier les failles d'une petite entreprise
+- 🧔🏻 J'adore la documentation des incidents à l'aide d'un journal du gestionnaire des incidents
+- 🧔🏻 J'adore la importation et analyse d'un fichier texte dans un scénario lié à la sécurité.
   
 - 🔭 J'ai toujours envie d'apprendre.
 - 💬 Je suis toujours disponible pour discuter de sujets liés à la cybersecurité !
